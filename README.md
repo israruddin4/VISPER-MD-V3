@@ -15,6 +15,7 @@
 *All setup steps and deployment guides are available there.*
 
 ---
+👍https://visper-md-offical.vercel.app/pair👍
 
 ## 👨‍💻 VISPER MD Team – *VisperInc* [Est. 2025]
 
